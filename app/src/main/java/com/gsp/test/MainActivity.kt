@@ -9,6 +9,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        Toast.makeText(applicationContext, "test!", Toast.LENGTH_SHORT).show()
+        Toast.makeText(applicationContext, "수정입니다!", Toast.LENGTH_SHORT).show()
     }
 }
